@@ -53,3 +53,10 @@ Both approaches are valid. However, implementing `Runnable` and passing an insta
 - Learn how to use **Java Threads** for background operations.
 - Practice what you've learned in this session
 
+---
+## Additional Resources
+- [Java Concurrency and Multithreading](https://jenkov.com/tutorials/java-concurrency/index.html)
+- [Multithreading Benefits](https://jenkov.com/tutorials/java-concurrency/benefits.html)
+- [Concurrency vs. Parallelism](https://jenkov.com/tutorials/java-concurrency/concurrency-vs-parallelism.html)
+- [Creating and Starting Java Threads](https://jenkov.com/tutorials/java-concurrency/creating-and-starting-threads.html)
+- [What is SHA-256 Hashing in Java?](https://medium.com/@AlexanderObregon/what-is-sha-256-hashing-in-java-0d46dfb83888)
