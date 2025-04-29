@@ -1,5 +1,5 @@
 ## Example 01:
-### **Learning goals**
+### **Learning Goals**
 
 - **How to create a thread** by **extending** the `Thread` class.
 - **How to start a thread** using `.start()`
