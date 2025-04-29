@@ -46,6 +46,8 @@ Both approaches are valid. However, implementing `Runnable` and passing an insta
 
 - Implement a **loader UI** that provides feedback to users while background tasks are running.
 - Ensure the **background task runs concurrently** without blocking the main execution flow.
+- Use a hashing function to hash a list of passwords
+
 ### **Learning Goals**
 
 - Learn how to use **Java Threads** for background operations.
