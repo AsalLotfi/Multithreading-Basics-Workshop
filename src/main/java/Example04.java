@@ -14,9 +14,11 @@ public class Example04 {
             }
         }
     }
-    public static void main(String[] args)
-    {
-        //TODO: create a thread and start it
-        //TODO: print a message after the thread is done
+    public static void main(String[] args) throws InterruptedException {
+        Thread thread =  new Thread (new MyRunnable());
+        thread.start();
+
+        thread.join();
+        System.out.println("Done!");
     }
 }
